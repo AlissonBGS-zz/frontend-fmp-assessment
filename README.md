@@ -1,6 +1,6 @@
-# FrontendFmpAssessment
+# frontend-fmp-assessment
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
+Frontend for Find my Profession assessment (consume RestAPI creates on repository `backend-fmp-assessment`
 
 ## Development server
 
